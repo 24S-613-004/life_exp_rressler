@@ -30,4 +30,4 @@ gapminder::gapminder_unfiltered  |>
   sumdat
 ```
 
-THis is my cloned copy
+This is my cloned copy
