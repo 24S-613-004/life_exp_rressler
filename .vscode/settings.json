@@ -5,6 +5,8 @@
         "sumdat",
         "tidyverse",
         "ungroup",
-        "Vaupel"
+        "Vaupel",
+        "xlab",
+        "ylab"
     ]
 }
